@@ -16,3 +16,9 @@ simply run
 ```
 wget "https://raw.githubusercontent.com/jramseygreen/microsocks-install-script/main/microsocks-install.sh" && sudo bash microsocks-install.sh
 ```
+
+# Removal
+simply run 
+```
+wget "https://raw.githubusercontent.com/jramseygreen/microsocks-install-script/main/microsocks-remove.sh" && sudo bash microsocks-remove.sh
+```
