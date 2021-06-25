@@ -14,5 +14,5 @@ This requires you to have unzip, gcc and wget - all of which should be downloade
 # Installation
 simply run 
 ```
-wget "https://raw.githubusercontent.com/jramseygreen/microsocks-install-script/main/microsocks-install.sh" && sudo bash openvpn-install.sh
+wget "https://raw.githubusercontent.com/jramseygreen/microsocks-install-script/main/microsocks-install.sh" && sudo bash microsocks-install.sh
 ```
